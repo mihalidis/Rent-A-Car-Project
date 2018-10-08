@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewBag.Title = "Statics";
+    Layout = "~/Areas/Admin/Views/Shared/_SharedAdminLayout.cshtml";
+}
+
+<div class="row tile_count">
+    <div class="col-md-4 col-sm-4 col-xs-6 tile_stats_count">
+        <span class="count_top"><i class="fa fa-user"></i>Number of Clients</span>
+        <div class="count green">@ViewBag.Users</div>
+    </div>
+    <div class="col-md-4 col-sm-4 col-xs-6 tile_stats_count">
+        <span class="count_top"><i class="fa fa-check-circle-o"></i>Number of Rents</span>
+        <div class="count green">@ViewBag.Kiralama</div>
+
+    </div>
+    <div class="col-md-4 col-sm-4 col-xs-6 tile_stats_count">
+        <span class="count_top"><i class="fa fa-automobile"></i> Number of Car Models </span>
+        <div class="count green">@ViewBag.Araclar</div>
+    </div>
+</div>
+
+
+
+

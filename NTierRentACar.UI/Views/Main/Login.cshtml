@@ -1,0 +1,94 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+ <!--== Page Title Area Start ==-->
+    <section id="page-title-area" class="section-padding overlay" style="background-image: url('../../Content/assets/img/page-title.jpg');">
+        <div class="container">
+            <div class="row">
+                <!-- Page Title Start -->
+                <div class="col-lg-12">
+                    <div class="section-title  text-center">
+                        <h2>Login</h2>
+                        <span class="title-line"><i class="fa fa-car"></i></span>
+                        <p>Join and be our Customers</p>
+                    </div>
+                </div>
+                <!-- Page Title End -->
+            </div>
+        </div>
+    </section>
+    <!--== Page Title Area End ==-->
+
+    <!--== Login Page Content Start ==-->
+    <section id="lgoin-page-wrap" class="section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-md-8 m-auto">
+                	<div class="login-page-content">
+                		<div class="login-form">
+                			<h3>Welcome Back!</h3>
+							<form id="frm" onsubmit="return check_Alpha(this)">
+								<div class="username">
+									<input name="UserName" type="text" placeholder="Username">
+								</div>
+								<div class="password">
+									<input name="Password" type="password" placeholder="Password">
+								</div>
+								<div class="log-btn">
+									<button type="submit"><i class="fa fa-sign-in"></i> Log In</button>
+								</div>
+							</form>
+                		</div>
+                		                		
+                		<div class="create-ac">
+                			<p>Don't have an account? <a href="@Url.Action("SignUp","Users",new { area=""})">Sign Up</a></p>
+                		</div>
+                		<div class="login-menu">
+                			<a href="@Url.Action("HomePage","Main",new { area=""})">Home</a>
+                			<span>|</span>
+                			<a href="@Url.Action("Add","Contact",new { area=""})">Contact</a>
+                		</div>
+                	</div>
+                </div>
+        	</div>
+        </div>
+    </section>
+    <!--== Login Page Content End ==-->
+
+@section scripts{
+    <script>
+        function check_Alpha(letters) {
+            var regex = /^[a-zA-Z]+$/;
+            if (regex.test(letters.username.value) == false) {
+                alert("Name must be in alphabets only");
+                letters.yourname.focus();
+                return false;
+            }
+            if (letters.username.value == " ") {
+                alert("Name Field cannot be left empty");
+                letters.username.focus();
+                return false;
+            }
+            return true;
+        }
+
+        $("#frm").submit(function (e) {
+            e.preventDefault();
+            $.ajax({
+                url: "http://localhost:63739/api/Auth/Login",
+                type: "POST",
+                data: $("#frm").serialize(),
+                success: function (response) {
+                    if (response.Success) {
+                        window.location.href = response.RedirectUrl;
+                    }
+                },
+                error: function (err) {
+                    console.log(err);
+                }
+            })
+        });
+        </script>}

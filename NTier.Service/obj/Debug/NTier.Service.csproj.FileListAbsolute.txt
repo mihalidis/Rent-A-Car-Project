@@ -1,0 +1,110 @@
+C:\Users\pinar\source\repos\MihalidisRentACar\NTier.Service\obj\Debug\NTier.Service.csprojResolveAssemblyReference.cache
+C:\Users\pinar\source\repos\MihalidisRentACar\NTier.Service\obj\Debug\NTier.Service.csproj.CoreCompileInputs.cache
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\NTier.Service.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\NTier.Service.dll
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\NTier.Service.pdb
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\EntityFramework.dll
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\NTier.Core.dll
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\NTier.Model.dll
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\NTier.Core.pdb
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\NTier.Core.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\NTier.Model.pdb
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\NTier.Model.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\EntityFramework.xml
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTier.Service\obj\Debug\NTier.Service.csprojAssemblyReference.cache
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTier.Service\obj\Debug\NTier.Service.csproj.CoreCompileInputs.cache
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTier.Service\obj\Debug\NTier.Service.csproj.CopyComplete
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTier.Service\obj\Debug\NTier.Service.dll
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTier.Service\obj\Debug\NTier.Service.pdb
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\NTier.Service.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\NTier.Service.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\NTier.Service.pdb
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\EntityFramework.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\NTier.Core.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\NTier.Model.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\NTier.Core.pdb
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\NTier.Core.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\NTier.Model.pdb
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\NTier.Model.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\EntityFramework.xml
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTier.Service\obj\Debug\NTier.Service.csprojAssemblyReference.cache
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTier.Service\obj\Debug\NTier.Service.csproj.CoreCompileInputs.cache
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTier.Service\obj\Debug\NTier.Service.csproj.CopyComplete
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTier.Service\obj\Debug\NTier.Service.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTier.Service\obj\Debug\NTier.Service.pdb
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\NTier.Service.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\NTier.Service.dll
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\NTier.Service.pdb
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\EntityFramework.dll
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\NTier.Core.dll
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\NTier.Model.dll
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\NTier.Core.pdb
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\NTier.Core.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\NTier.Model.pdb
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\NTier.Model.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\EntityFramework.xml
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTier.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTier.Service\obj\Debug\NTier.Service.csprojAssemblyReference.cache
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTier.Service\obj\Debug\NTier.Service.csproj.CoreCompileInputs.cache
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTier.Service\obj\Debug\NTier.Service.csproj.CopyComplete
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTier.Service\obj\Debug\NTier.Service.dll
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTier.Service\obj\Debug\NTier.Service.pdb
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTier.Service\bin\Debug\NTier.Service.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTier.Service\bin\Debug\NTier.Service.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTier.Service\bin\Debug\NTier.Service.pdb
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTier.Service\bin\Debug\EntityFramework.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTier.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTier.Service\bin\Debug\NTier.Core.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTier.Service\bin\Debug\NTier.Model.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTier.Service\bin\Debug\NTier.Core.pdb
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTier.Service\bin\Debug\NTier.Core.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTier.Service\bin\Debug\NTier.Model.pdb
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTier.Service\bin\Debug\NTier.Model.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTier.Service\bin\Debug\EntityFramework.xml
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTier.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTier.Service\obj\Debug\NTier.Service.csprojAssemblyReference.cache
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTier.Service\obj\Debug\NTier.Service.csproj.CoreCompileInputs.cache
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTier.Service\obj\Debug\NTier.Service.csproj.CopyComplete
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTier.Service\obj\Debug\NTier.Service.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTier.Service\obj\Debug\NTier.Service.pdb
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTier.Service\bin\Debug\NTier.Service.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTier.Service\bin\Debug\NTier.Service.dll
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTier.Service\bin\Debug\NTier.Service.pdb
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTier.Service\bin\Debug\EntityFramework.dll
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTier.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTier.Service\bin\Debug\NTier.Core.dll
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTier.Service\bin\Debug\NTier.Model.dll
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTier.Service\bin\Debug\NTier.Core.pdb
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTier.Service\bin\Debug\NTier.Core.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTier.Service\bin\Debug\NTier.Model.pdb
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTier.Service\bin\Debug\NTier.Model.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTier.Service\bin\Debug\EntityFramework.xml
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTier.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTier.Service\obj\Debug\NTier.Service.csprojAssemblyReference.cache
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTier.Service\obj\Debug\NTier.Service.csproj.CoreCompileInputs.cache
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTier.Service\obj\Debug\NTier.Service.csproj.CopyComplete
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTier.Service\obj\Debug\NTier.Service.dll
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTier.Service\obj\Debug\NTier.Service.pdb
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTier.Service\bin\Debug\NTier.Service.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTier.Service\bin\Debug\NTier.Service.dll
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTier.Service\bin\Debug\NTier.Service.pdb
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTier.Service\bin\Debug\EntityFramework.dll
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTier.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTier.Service\bin\Debug\NTier.Core.dll
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTier.Service\bin\Debug\NTier.Model.dll
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTier.Service\bin\Debug\NTier.Core.pdb
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTier.Service\bin\Debug\NTier.Core.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTier.Service\bin\Debug\NTier.Model.pdb
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTier.Service\bin\Debug\NTier.Model.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTier.Service\bin\Debug\EntityFramework.xml
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTier.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTier.Service\obj\Debug\NTier.Service.csprojAssemblyReference.cache
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTier.Service\obj\Debug\NTier.Service.csproj.CoreCompileInputs.cache
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTier.Service\obj\Debug\NTier.Service.csproj.CopyComplete
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTier.Service\obj\Debug\NTier.Service.dll
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTier.Service\obj\Debug\NTier.Service.pdb

@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewBag.Title = "Marka Ekleme Paneli";
+    Layout = "~/Areas/Admin/Views/Shared/_SharedAdminLayout.cshtml";
+}
+
+@if (TempData["BrandErr"] != null)
+{
+    <div class="alert alert-danger">
+        @TempData["BrandErr"]
+        <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+    </div>
+}
+
+<form class="form-horizontal form-label-left" novalidate action="/Admin/CarBrand/Add" method="post">
+
+    <div class="item form-group">
+        <label class="control-label col-md-3 col-sm-3 col-xs-12" for="BrandName">
+            Brand Name
+        </label>
+        <div class="col-md-6 col-sm-6 col-xs-12">
+            <input id="name" class="form-control col-md-7 col-xs-12" name="BrandName" placeholder="
+enter brand name" type="text">
+        </div>
+    </div>
+
+    <div class="item form-group">
+        <label class="control-label col-md-3 col-sm-3 col-xs-12" for="Description">
+            Description
+        </label>
+        <div class="col-md-6 col-sm-6 col-xs-12">
+            <textarea id="textarea" name="Description" class="form-control col-md-7 col-xs-12"></textarea>
+        </div>
+    </div>
+
+    <div class="ln_solid"></div>
+    <div class="form-group">
+        <div class="col-md-6 col-md-offset-3">
+            <button type="button" class="btn btn-primary" onclick="window.location='/Admin/CarBrand/List';return false;">Cancel</button>
+            <button id="send" type="submit" class="btn btn-success">Submit</button>
+        </div>
+    </div>
+</form>

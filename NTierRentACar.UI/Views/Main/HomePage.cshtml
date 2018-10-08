@@ -1,0 +1,171 @@
+﻿
+@{
+    ViewBag.Title = "HomePage";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!--== SlideshowBg Area Start ==-->
+<div id="slideslow-bg">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <div class="slideshowcontent">
+                    <div class="display-table">
+                        <div class="display-table-cell">
+                            <h1>RENT A CAR TODAY!</h1>
+                            <p>FOR AS LOW AS $10 A DAY PLUS 15% DISCOUNT <br> FOR OUR RETURNING CUSTOMERS</p>
+                            <div class="book-ur-car">
+                                <a href="@Url.Action("Renting","Main",new { area=""})" class="bookcar-btn" style="border:1px solid #ffd11a;border-radius:4px;padding:20px 20px;background-color:#ffd11a;color:black;">Start Your Rent</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--== SlideshowBg Area End ==-->
+<!--== About Us Area Start ==-->
+<section id="about-area" class="section-padding">
+    <div class="container">
+        <div class="row">
+            <!-- Section Title Start -->
+            <div class="col-lg-12">
+                <div class="section-title  text-center">
+                    <h2>About us</h2>
+                    <span class="title-line"><i class="fa fa-car"></i></span>
+                    <p>
+                        All the luxury cars you want to reach
+                    </p>
+                </div>
+            </div>
+            <!-- Section Title End -->
+        </div>
+
+        <div class="row">
+            <!-- About Content Start -->
+            <div class="col-lg-6">
+                <div class="display-table">
+                    <div class="display-table-cell">
+                        <div class="about-content">
+                            <p>
+                                Bunsonium is Canada's most trusted car rental brand. The brand, which was established with domestic capital and continued on its way; has become one of the leading players in the car rental sector with its expert and passionate staff, corporate structure and goals
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- About Content End -->
+            <!-- About Video Start -->
+            <div class="col-lg-6">
+                <div class="about-image">
+                    <img src="https://toppng.com/public/uploads/preview/chevrolet-camaro-11530986233snveolamoc.png" alt="Camaro">
+                </div>
+            </div>
+            <!-- About Video End -->
+        </div>
+
+    </div>
+</section>
+<!--== About Us Area End ==-->
+<!--== Services Area Start ==-->
+<section id="service-area" class="section-padding">
+    <div class="container">
+        <div class="row">
+            <!-- Section Title Start -->
+            <div class="col-lg-12">
+                <div class="section-title  text-center">
+                    <h2>Our Services</h2>
+                    <span class="title-line"><i class="fa fa-car"></i></span>
+                </div>
+            </div>
+            <!-- Section Title End -->
+        </div>
+
+        <!-- Service Content Start -->
+        <div class="row">
+            <div class="col-lg-11 m-auto text-center">
+                <div class="service-container-wrap">
+                    <!-- Single Service Start -->
+                    <div class="service-item">
+                        <i class="fa fa-taxi"></i>
+                        <h3>RENTAL CAR</h3>
+                        <p>
+                            rent your dream car now
+                        </p>
+                    </div>
+                    <!-- Single Service End -->                    
+                    <!-- Single Service Start -->
+                    <div class="service-item">
+                        <i class="fa fa-life-ring"></i>
+                        <h3>life insurance</h3>
+                        <p>From the moment you rented the car, you are safe until the moment you return</p>
+                    </div>
+                    <!-- Single Service End -->                    
+                    <!-- Single Service Start -->
+                    <div class="service-item">
+                        <i class="fa fa-phone"></i>
+                        <h3>call us</h3>
+                        <p>Call us! if you have a problem with your car</p>
+                    </div>
+                    <!-- Single Service End -->
+                </div>
+            </div>
+        </div>
+        <!-- Service Content End -->
+    </div>
+</section>
+<!--== Services Area End ==-->
+<!--== Fun Fact Area Start ==-->
+<div id="funfact-area" class="overlay section-padding" style="background-image: url('../../Content/assets/img/funfact-bg.jpg');">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-11 col-md-12 m-auto">
+                <div class="funfact-content-wrap">
+                    <div class="row">
+                        <!-- Single FunFact Start -->
+                        <div class="col-lg-6 col-md-6">
+                            <div class="single-funfact">
+                                <div class="funfact-icon">
+                                    <i class="fa fa-smile-o"></i>
+                                </div>
+                                <div class="funfact-content">
+                                    <p><span class="counter">550</span>+</p>
+                                    <h4>HAPPY CLIENTS</h4>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Single FunFact End -->
+                        <!-- Single FunFact Start -->
+                        <div class="col-lg-6 col-md-6">
+                            <div class="single-funfact">
+                                <div class="funfact-icon">
+                                    <i class="fa fa-car"></i>
+                                </div>
+                                <div class="funfact-content">
+                                    <p><span class="counter">250</span>+</p>
+                                    <h4>CARS IN STOCK</h4>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Single FunFact End -->
+                        <!-- Single FunFact Start -->
+                        @*<div class="col-lg-4 col-md-6">
+                            <div class="single-funfact">
+                                <div class="funfact-icon">
+                                    <i class="fa fa-bank"></i>
+                                </div>
+                                <div class="funfact-content">
+                                    <p><span class="counter">50</span>+</p>
+                                    <h4>office in cities</h4>
+                                </div>
+                            </div>
+                        </div>*@
+                        <!-- Single FunFact End -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--== Fun Fact Area End ==-->

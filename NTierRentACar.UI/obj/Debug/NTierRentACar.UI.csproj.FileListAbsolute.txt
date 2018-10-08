@@ -1,0 +1,258 @@
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\NTierRentACar.UI.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\NTierRentACar.UI.dll
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\NTierRentACar.UI.pdb
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\Antlr3.Runtime.dll
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\EntityFramework.dll
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\Newtonsoft.Json.dll
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\NTier.Core.dll
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\NTier.Model.dll
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\NTier.Service.dll
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Helpers.dll
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Mvc.dll
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Optimization.dll
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Razor.dll
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Webpages.dll
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Webpages.Razor.dll
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\WebGrease.dll
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\NTier.Core.pdb
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\NTier.Core.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\NTier.Model.pdb
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\NTier.Model.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\NTier.Service.pdb
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\NTier.Service.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\Antlr3.Runtime.pdb
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\EntityFramework.xml
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\Newtonsoft.Json.xml
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Optimization.xml
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Razor.xml
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Webpages.xml
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Webpages.Razor.xml
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Helpers.xml
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Mvc.xml
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\obj\Debug\NTierRentACar.UI.csprojAssemblyReference.cache
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\obj\Debug\NTierRentACar.UI.csproj.CoreCompileInputs.cache
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\obj\Debug\NTierRentACar.UI.csproj.CopyComplete
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\obj\Debug\NTierRentACar.UI.dll
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTierRentACar.UI\obj\Debug\NTierRentACar.UI.pdb
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\NTierRentACar.UI.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\NTierRentACar.UI.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\NTierRentACar.UI.pdb
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\Antlr3.Runtime.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\EntityFramework.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\Newtonsoft.Json.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\NTier.Core.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\NTier.Model.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\NTier.Service.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Helpers.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Mvc.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Optimization.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Razor.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Webpages.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Webpages.Razor.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\WebGrease.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\NTier.Core.pdb
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\NTier.Core.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\NTier.Model.pdb
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\NTier.Model.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\NTier.Service.pdb
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\NTier.Service.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\Antlr3.Runtime.pdb
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\EntityFramework.xml
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\Newtonsoft.Json.xml
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Optimization.xml
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Razor.xml
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Webpages.xml
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Webpages.Razor.xml
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Helpers.xml
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Mvc.xml
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\obj\Debug\NTierRentACar.UI.csprojAssemblyReference.cache
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\obj\Debug\NTierRentACar.UI.csproj.CoreCompileInputs.cache
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\obj\Debug\NTierRentACar.UI.csproj.CopyComplete
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\obj\Debug\NTierRentACar.UI.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar(deneme)\NTierRentACar.UI\obj\Debug\NTierRentACar.UI.pdb
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\NTierRentACar.UI.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\NTierRentACar.UI.dll
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\NTierRentACar.UI.pdb
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\Antlr3.Runtime.dll
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\EntityFramework.dll
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\Newtonsoft.Json.dll
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\NTier.Core.dll
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\NTier.Model.dll
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\NTier.Service.dll
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Helpers.dll
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Mvc.dll
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Optimization.dll
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Razor.dll
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Webpages.dll
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Webpages.Razor.dll
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\WebGrease.dll
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\NTier.Core.pdb
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\NTier.Core.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\NTier.Model.pdb
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\NTier.Model.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\NTier.Service.pdb
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\NTier.Service.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\Antlr3.Runtime.pdb
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\EntityFramework.xml
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\Newtonsoft.Json.xml
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Optimization.xml
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Razor.xml
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Webpages.xml
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Webpages.Razor.xml
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Helpers.xml
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\bin\System.Web.Mvc.xml
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\obj\Debug\NTierRentACar.UI.csprojAssemblyReference.cache
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\obj\Debug\NTierRentACar.UI.csproj.CoreCompileInputs.cache
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\obj\Debug\NTierRentACar.UI.csproj.CopyComplete
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\obj\Debug\NTierRentACar.UI.dll
+C:\Users\pinar\OneDrive\Masaüstü\Hocaya Mail Atılacak\MihalidisRentACar(deneme)\NTierRentACar.UI\obj\Debug\NTierRentACar.UI.pdb
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\NTierRentACar.UI.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\NTierRentACar.UI.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\NTierRentACar.UI.pdb
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\Antlr3.Runtime.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\EntityFramework.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\Newtonsoft.Json.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\NTier.Core.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\NTier.Model.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\NTier.Service.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Helpers.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Mvc.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Optimization.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Razor.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Webpages.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Webpages.Razor.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\WebGrease.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\NTier.Core.pdb
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\NTier.Core.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\NTier.Model.pdb
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\NTier.Model.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\NTier.Service.pdb
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\NTier.Service.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\Antlr3.Runtime.pdb
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\EntityFramework.xml
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\Newtonsoft.Json.xml
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Optimization.xml
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Razor.xml
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Webpages.xml
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Webpages.Razor.xml
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Helpers.xml
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Mvc.xml
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\obj\Debug\NTierRentACar.UI.csprojAssemblyReference.cache
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\obj\Debug\NTierRentACar.UI.csproj.CoreCompileInputs.cache
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\obj\Debug\NTierRentACar.UI.csproj.CopyComplete
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\obj\Debug\NTierRentACar.UI.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTierRentACar.UI\obj\Debug\NTierRentACar.UI.pdb
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\NTierRentACar.UI.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\NTierRentACar.UI.dll
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\NTierRentACar.UI.pdb
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\Antlr3.Runtime.dll
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\EntityFramework.dll
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\Newtonsoft.Json.dll
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\NTier.Core.dll
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\NTier.Model.dll
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\NTier.Service.dll
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Helpers.dll
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Mvc.dll
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Optimization.dll
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Razor.dll
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Webpages.dll
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Webpages.Razor.dll
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\WebGrease.dll
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\NTier.Core.pdb
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\NTier.Core.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\NTier.Model.pdb
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\NTier.Model.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\NTier.Service.pdb
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\NTier.Service.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\Antlr3.Runtime.pdb
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\EntityFramework.xml
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\Newtonsoft.Json.xml
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Optimization.xml
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Razor.xml
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Webpages.xml
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Webpages.Razor.xml
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Helpers.xml
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Mvc.xml
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\obj\Debug\NTierRentACar.UI.csprojAssemblyReference.cache
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\obj\Debug\NTierRentACar.UI.csproj.CoreCompileInputs.cache
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\obj\Debug\NTierRentACar.UI.csproj.CopyComplete
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\obj\Debug\NTierRentACar.UI.dll
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTierRentACar.UI\obj\Debug\NTierRentACar.UI.pdb
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\NTierRentACar.UI.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\NTierRentACar.UI.dll
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\NTierRentACar.UI.pdb
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\Antlr3.Runtime.dll
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\EntityFramework.dll
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\Newtonsoft.Json.dll
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\NTier.Core.dll
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\NTier.Model.dll
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\NTier.Service.dll
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Helpers.dll
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Mvc.dll
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Optimization.dll
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Razor.dll
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Webpages.dll
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Webpages.Razor.dll
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\WebGrease.dll
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\NTier.Core.pdb
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\NTier.Core.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\NTier.Model.pdb
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\NTier.Model.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\NTier.Service.pdb
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\NTier.Service.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\Antlr3.Runtime.pdb
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\EntityFramework.xml
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\Newtonsoft.Json.xml
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Optimization.xml
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Razor.xml
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Webpages.xml
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Webpages.Razor.xml
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Helpers.xml
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\bin\System.Web.Mvc.xml
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\obj\Debug\NTierRentACar.UI.csprojAssemblyReference.cache
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\obj\Debug\NTierRentACar.UI.csproj.CoreCompileInputs.cache
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\obj\Debug\NTierRentACar.UI.csproj.CopyComplete
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\obj\Debug\NTierRentACar.UI.dll
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTierRentACar.UI\obj\Debug\NTierRentACar.UI.pdb

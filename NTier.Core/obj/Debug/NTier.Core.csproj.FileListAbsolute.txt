@@ -1,0 +1,69 @@
+C:\Users\pinar\source\repos\MihalidisRentACar\NTier.Core\bin\Debug\NTier.Core.dll.config
+C:\Users\pinar\source\repos\MihalidisRentACar\NTier.Core\bin\Debug\NTier.Core.dll
+C:\Users\pinar\source\repos\MihalidisRentACar\NTier.Core\bin\Debug\NTier.Core.pdb
+C:\Users\pinar\source\repos\MihalidisRentACar\NTier.Core\bin\Debug\EntityFramework.dll
+C:\Users\pinar\source\repos\MihalidisRentACar\NTier.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pinar\source\repos\MihalidisRentACar\NTier.Core\bin\Debug\EntityFramework.xml
+C:\Users\pinar\source\repos\MihalidisRentACar\NTier.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pinar\source\repos\MihalidisRentACar\NTier.Core\obj\Debug\NTier.Core.csprojResolveAssemblyReference.cache
+C:\Users\pinar\source\repos\MihalidisRentACar\NTier.Core\obj\Debug\NTier.Core.csproj.CoreCompileInputs.cache
+C:\Users\pinar\source\repos\MihalidisRentACar\NTier.Core\obj\Debug\NTier.Core.dll
+C:\Users\pinar\source\repos\MihalidisRentACar\NTier.Core\obj\Debug\NTier.Core.pdb
+D:\MihalidisRentACar(deneme)\NTier.Core\bin\Debug\NTier.Core.dll.config
+D:\MihalidisRentACar(deneme)\NTier.Core\bin\Debug\NTier.Core.dll
+D:\MihalidisRentACar(deneme)\NTier.Core\bin\Debug\NTier.Core.pdb
+D:\MihalidisRentACar(deneme)\NTier.Core\bin\Debug\EntityFramework.dll
+D:\MihalidisRentACar(deneme)\NTier.Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\MihalidisRentACar(deneme)\NTier.Core\bin\Debug\EntityFramework.xml
+D:\MihalidisRentACar(deneme)\NTier.Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\MihalidisRentACar(deneme)\NTier.Core\obj\Debug\NTier.Core.csprojResolveAssemblyReference.cache
+D:\MihalidisRentACar(deneme)\NTier.Core\obj\Debug\NTier.Core.csproj.CoreCompileInputs.cache
+D:\MihalidisRentACar(deneme)\NTier.Core\obj\Debug\NTier.Core.dll
+D:\MihalidisRentACar(deneme)\NTier.Core\obj\Debug\NTier.Core.pdb
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTier.Core\bin\Debug\NTier.Core.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTier.Core\bin\Debug\NTier.Core.dll
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTier.Core\bin\Debug\NTier.Core.pdb
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTier.Core\bin\Debug\EntityFramework.dll
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTier.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTier.Core\bin\Debug\EntityFramework.xml
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTier.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTier.Core\obj\Debug\NTier.Core.csprojAssemblyReference.cache
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTier.Core\obj\Debug\NTier.Core.csproj.CoreCompileInputs.cache
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTier.Core\obj\Debug\NTier.Core.csproj.CopyComplete
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTier.Core\obj\Debug\NTier.Core.dll
+C:\Users\pinar\OneDrive\Masaüstü\Proje ve Dersler\MihalidisRentACar(deneme)\NTier.Core\obj\Debug\NTier.Core.pdb
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTier.Core\bin\Debug\NTier.Core.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTier.Core\bin\Debug\NTier.Core.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTier.Core\bin\Debug\NTier.Core.pdb
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTier.Core\bin\Debug\EntityFramework.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTier.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTier.Core\bin\Debug\EntityFramework.xml
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTier.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTier.Core\obj\Debug\NTier.Core.csproj.CoreCompileInputs.cache
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTier.Core\obj\Debug\NTier.Core.csproj.CopyComplete
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTier.Core\obj\Debug\NTier.Core.dll
+C:\Users\pinar\OneDrive\Masaüstü\MihalidisRentACar\NTier.Core\obj\Debug\NTier.Core.pdb
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTier.Core\bin\Debug\NTier.Core.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTier.Core\bin\Debug\NTier.Core.dll
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTier.Core\bin\Debug\NTier.Core.pdb
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTier.Core\bin\Debug\EntityFramework.dll
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTier.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTier.Core\bin\Debug\EntityFramework.xml
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTier.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTier.Core\obj\Debug\NTier.Core.csprojAssemblyReference.cache
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTier.Core\obj\Debug\NTier.Core.csproj.CoreCompileInputs.cache
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTier.Core\obj\Debug\NTier.Core.csproj.CopyComplete
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTier.Core\obj\Debug\NTier.Core.dll
+C:\Users\pinar\OneDrive\Masaüstü\PROJE(27.09.2018)\MihalidisRentACar\NTier.Core\obj\Debug\NTier.Core.pdb
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTier.Core\bin\Debug\NTier.Core.dll.config
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTier.Core\bin\Debug\NTier.Core.dll
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTier.Core\bin\Debug\NTier.Core.pdb
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTier.Core\bin\Debug\EntityFramework.dll
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTier.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTier.Core\bin\Debug\EntityFramework.xml
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTier.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTier.Core\obj\Debug\NTier.Core.csproj.CoreCompileInputs.cache
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTier.Core\obj\Debug\NTier.Core.csproj.CopyComplete
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTier.Core\obj\Debug\NTier.Core.dll
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTier.Core\obj\Debug\NTier.Core.pdb
+C:\Users\pinar\OneDrive\Masaüstü\BunsoniumRentACarProje(04.10.18)\MihalidisRentACar\NTier.Core\obj\Debug\NTier.Core.csprojAssemblyReference.cache
